@@ -1,0 +1,32 @@
+minecraft/Start.java
+minecraft/cpw/*
+minecraft/forge_logo.png
+minecraft/havvy/*
+minecraft/ibxm/*
+minecraft/net/*
+minecraft/paulscode/*
+minecraft_server/*
+common/cpw/*
+common/havvy/*
+common/net/*
+common/org/*
+common/fml_at.cfg
+common/fml_marker.cfg
+common/fmlversion.properties
+common/forge_at.cfg
+*sublime*
+
+
+intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Package Files #
+*.jar
+*.war
+*.ear
+build
